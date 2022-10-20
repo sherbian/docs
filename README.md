@@ -1,2 +1,3 @@
 # docs
-![image](https://i.imgur.com/M5Q20.png)
+![image](https://i.imgur.com/XHuguSZ.png)
+
